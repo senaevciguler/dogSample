@@ -1,1 +1,1 @@
-# dogSample
+# Encapsulation
